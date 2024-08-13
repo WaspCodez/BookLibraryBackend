@@ -1,0 +1,268 @@
+[
+  {
+    "id": "ac52e5b6-9471-4c34-80ab-8e6b48fb272e",
+    "title": "The Last Horizon",
+    "author": "Isabella T. Mason ed",
+    "publishedDate": "2018-09-29",
+    "ISBN": "978-0-19-957406-8"
+  },
+  {
+    "id": "d2d2c9a8-75a4-4f30-b624-ffb60c6f7e34",
+    "title": "test 1",
+    "author": "test 1",
+    "publishedDate": "2024-08-01",
+    "ISBN": "978-0-14-199810-1"
+  },
+  {
+    "id": "1UnitTestRunId",
+    "title": "Unit Test title",
+    "author": "Unit test Author",
+    "publishedDate": "2024-08-11",
+    "ISBN": "978-0-00-199000-0"
+  },
+  {
+    "id": "b1e5b3d9-5a0b-4a4d-a254-dc95f9c53a7d",
+    "title": "The New Dawn",
+    "author": "Alex Johnson",
+    "publishedDate": "2023-12-15",
+    "ISBN": "978-1-23-456789-0"
+  },
+  {
+    "id": "d2b3c8a0-6e1d-4b35-8d76-1d2f50b79e41",
+    "title": "Journey to the Stars",
+    "author": "Michael Lee",
+    "publishedDate": "2024-01-05",
+    "ISBN": "978-1-23-456791-4"
+  },
+  {
+    "id": "e3a4c9b2-7f2a-4d4d-a1c3-5b6e8b927bc7",
+    "title": "A World Apart",
+    "author": "Sophia Clark",
+    "publishedDate": "2024-02-22",
+    "ISBN": "978-1-23-456792-1"
+  },
+  {
+    "id": "f4b5d0c3-8a1b-4b2a-9d64-6c7e9d03d863",
+    "title": "Echoes of Eternity",
+    "author": "Daniel Brown",
+    "publishedDate": "2024-07-30",
+    "ISBN": "978-1-23-456793-8"
+  },
+  {
+    "id": "a5c6d1e4-9b2d-4e3e-a2b6-7d8f10e4f974",
+    "title": "Shadows in the Night",
+    "author": "Olivia Wilson",
+    "publishedDate": "2024-06-18",
+    "ISBN": "978-1-23-456794-5"
+  },
+  {
+    "id": "b6d7e2f5-0c3e-4f4d-b3c7-8e9f21e5g086",
+    "title": "Winds of Change",
+    "author": "Liam Harris",
+    "publishedDate": "2023-11-01",
+    "ISBN": "978-1-23-456795-2"
+  },
+  {
+    "id": "c7e8f3a6-1d4f-5e5e-c4d8-9f0g32h6i197",
+    "title": "The Lost Kingdom",
+    "author": "Mia Thompson",
+    "publishedDate": "2024-04-10",
+    "ISBN": "978-1-23-456796-9"
+  },
+  {
+    "id": "d8f9g4b7-2e5g-6f6f-d5e9-a1b2c3d4e208",
+    "title": "Beyond the Horizon",
+    "author": "Noah Martinez",
+    "publishedDate": "2023-09-25",
+    "ISBN": "978-1-23-456797-6"
+  },
+  {
+    "id": "e9g0h5c8-3f6h-7g7g-e6f0-b2c3d4e5f319",
+    "title": "A New Beginning",
+    "author": "Isabella Johnson",
+    "publishedDate": "2024-05-12",
+    "ISBN": "978-1-23-456798-3"
+  },
+  {
+    "id": "f0h1i6d9-4g7i-8h8h-f7g1-c3d4e5f6g420",
+    "title": "In the Shadow of Time",
+    "author": "James Brown",
+    "publishedDate": "2023-10-30",
+    "ISBN": "978-1-23-456799-0"
+  },
+  {
+    "id": "g1h2j7e0-5i8j-9k9k-g8h2-d4e5f6g7h531",
+    "title": "Rise of the Phoenix",
+    "author": "Ava Smith",
+    "publishedDate": "2024-03-15",
+    "ISBN": "978-1-23-456800-7"
+  },
+  {
+    "id": "h2i3k8f1-6j9k-0l0l-h9i3-e5f6g7h8i642",
+    "title": "Under the Stars",
+    "author": "William Davis",
+    "publishedDate": "2023-08-25",
+    "ISBN": "978-1-23-456801-4"
+  },
+  {
+    "id": "i3j4l9g2-7k0l-1m1m-i0j4-f6g7h8i9j753",
+    "title": "The Silent Forest",
+    "author": "Emily Davis",
+    "publishedDate": "2024-07-07",
+    "ISBN": "978-1-23-456802-1"
+  },
+  {
+    "id": "j4k5m0h3-8l1m-2n2n-j1k5-g7h8i9j0k864",
+    "title": "City of Shadows",
+    "author": "Oliver Miller",
+    "publishedDate": "2023-11-21",
+    "ISBN": "978-1-23-456803-8"
+  },
+  {
+    "id": "k5l6n1i4-9m2n-3o3o-k2l6-h8i9j0k1l975",
+    "title": "Dreams of Tomorrow",
+    "author": "Sophia Wilson",
+    "publishedDate": "2024-02-28",
+    "ISBN": "978-1-23-456804-5"
+  },
+  {
+    "id": "l6m7o2j5-0n3o-4p4p-l3m7-i9j0k1l2m086",
+    "title": "Waves of Fate",
+    "author": "Ethan Lee",
+    "publishedDate": "2024-09-17",
+    "ISBN": "978-1-23-456805-2"
+  },
+  {
+    "id": "m7n8p3k6-1o4p-5q5q-m4n8-j0k1l2m3n197",
+    "title": "Echoes of the Past",
+    "author": "Mia Harris",
+    "publishedDate": "2024-01-23",
+    "ISBN": "978-1-23-456806-9"
+  },
+  {
+    "id": "n8o9q4l7-2p5q-6r6r-n5o9-k1l2m3n4o208",
+    "title": "The Forgotten Realm",
+    "author": "Liam Scott",
+    "publishedDate": "2023-12-05",
+    "ISBN": "978-1-23-456807-6"
+  },
+  {
+    "id": "o9p0r5m8-3q6r-7s7s-o6p0-l2m3n4o5p319",
+    "title": "Twilight Dreams",
+    "author": "Olivia Clark",
+    "publishedDate": "2024-05-29",
+    "ISBN": "978-1-23-456808-3"
+  },
+  {
+    "id": "abc12345",
+    "title": "test from web",
+    "author": "test from web 2",
+    "publishedDate": "2024-08-14",
+    "ISBN": "123456787912"
+  },
+  {
+    "id": "test 2123432355",
+    "title": "test 2 web",
+    "author": "test from web 2",
+    "publishedDate": "2024-08-15",
+    "ISBN": "1723456743"
+  },
+  {
+    "id": "123432",
+    "title": "adddd",
+    "author": "ss",
+    "publishedDate": "2024-08-31",
+    "ISBN": "sdsdf3232434"
+  },
+  {
+    "id": "d",
+    "title": "d",
+    "author": "d",
+    "publishedDate": "2024-08-24",
+    "ISBN": "7678568586cxcfg"
+  },
+  {
+    "id": "123",
+    "title": "rsd",
+    "author": "sr",
+    "publishedDate": "2024-08-07",
+    "ISBN": "tdttdy"
+  },
+  {
+    "id": "2331",
+    "title": "dgfg",
+    "author": "dfgfd",
+    "publishedDate": "2024-08-15",
+    "ISBN": "fdg4w3234"
+  },
+  {
+    "id": "11111",
+    "title": "11111",
+    "author": "11111",
+    "publishedDate": "2024-07-30",
+    "ISBN": "11111111111111111111"
+  },
+  {
+    "id": "dgfddfg",
+    "title": "fdg",
+    "author": "dfg",
+    "publishedDate": "2024-08-01",
+    "ISBN": "dfg"
+  },
+  {
+    "id": "732b9a10-ef22-4f3b-9649-b20782cf5af3",
+    "title": "sdaf",
+    "author": "dsf",
+    "publishedDate": "2024-08-08",
+    "ISBN": "sdf"
+  },
+  {
+    "id": "63f480ae-10d1-4f41-bbea-9a81b4030e45",
+    "title": "ahmedtest",
+    "author": "tesahmed",
+    "publishedDate": "2024-07-30",
+    "ISBN": "dfds"
+  },
+  {
+    "id": "dfdffd",
+    "title": "ahmed",
+    "author": "dd",
+    "publishedDate": "2024-07-31",
+    "ISBN": "978-0-00-199000-2"
+  },
+  {
+    "id": "dfdf",
+    "title": "ahmed",
+    "author": "a",
+    "publishedDate": "2024-08-07",
+    "ISBN": "sdfsdf"
+  },
+  {
+    "id": "36cb8d02-2049-4328-9b1c-20ebd231b22d",
+    "title": "ahmed",
+    "author": "ahmed",
+    "publishedDate": "2024-07-30",
+    "ISBN": "dgfgd"
+  },
+  {
+    "id": "90dd7eb4-0bfd-41eb-9aab-e0161af77ea6",
+    "title": "ahmeddddddaaaaaa",
+    "author": "sd",
+    "publishedDate": "2024-08-07",
+    "ISBN": "dssd223"
+  },
+  {
+    "id": "42650df0-a4b9-4432-9001-6fbdaa1b4ab6",
+    "title": "addedddd",
+    "author": "addedd",
+    "publishedDate": "2024-08-15",
+    "ISBN": "sdf"
+  },
+  {
+    "id": "7156dcbf-eb75-4e5e-bdae-dee8c46b9207",
+    "title": "dsf",
+    "author": "dsf",
+    "publishedDate": "2024-08-08",
+    "ISBN": "fdsf"
+  }
+]
